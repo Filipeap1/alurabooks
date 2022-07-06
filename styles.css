@@ -3,6 +3,10 @@
 @import url("styles/carrossel.css");
 @import url("styles/topicos.css");
 @import url("styles/contato.css");
+<<<<<<< HEAD
+@import url("styles/rodape.css");
+=======
+>>>>>>> 39d7cfefe95511b4d61247e69d0c8ac219aad992
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
